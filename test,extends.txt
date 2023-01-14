@@ -1,0 +1,38 @@
+public class testextends {
+
+
+public static void main(String[] args) {
+    
+
+teacher t1 =new teacher();
+
+t1.neme ="md saddam hossain";
+t1.age = 30;
+t1.qulification ="i am saddam bossss";
+
+
+t1.displayinfo();
+t1.display1();
+
+System.out.println();
+
+teacher t2 =new teacher();
+
+t2.neme =" fatima ";
+t2.age = 7;
+t2.qulification ="fatima is vary good";
+t2.displayinfo();
+t2.display1();
+
+
+
+
+
+
+}
+
+   
+}
+
+
+

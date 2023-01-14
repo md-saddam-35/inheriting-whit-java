@@ -1,0 +1,11 @@
+public class teacher extends person {
+String qulification ;
+
+void display1(){
+
+System.out.println("qulifiction is :"+qulification);
+
+
+}
+    
+}

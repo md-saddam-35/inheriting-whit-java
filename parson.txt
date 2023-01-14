@@ -1,0 +1,18 @@
+public class person {
+
+String neme;
+int age;
+    
+void displayinfo(){
+
+System.out.println(neme);
+System.out.println(age);
+
+
+
+
+}
+
+
+
+}
